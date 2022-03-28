@@ -1,0 +1,30 @@
+{
+    "environment": {
+        "region": "canada",
+        "urlRegionCode": "crm3",
+        "languageDisplayName": "English",
+        "currencyName": "CAD",
+        "developmentEnvironment": {
+            "displayNameBase": "xxx - ",
+            "domainNameBase": "xxx-",
+            "skuName": "Sandbox",
+            "developersAzureAdGroupName": "sg-xxx"
+        },
+        "buildEnvironment": {
+            "displayNameBase": "xxx - ",
+            "domainNameBase": "xxx-",
+            "skuName": "Sandbox"
+        }
+    },
+    "developmentBranchNameBase": "work/",
+    "pacCliVersion": "1.10.4",
+    "powerAppsMakerPortalBaseUrl": "https://make.powerapps.com/environments/",
+    "deploymentSettingsFileNameBase": "DeploymentSettings",
+    "customDeploymentSettingsFileNameBase": "CustomDeploymentSettings",
+    "solutionChecker": {
+        "outputDirectory": "solutionCheckerResults/",
+        "geography": "Canada",
+        "maximumNumberHighSeverityPoints": 0,
+        "maximumNumberMediumSeverityPoints": 5
+    }
+}
